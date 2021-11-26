@@ -9,6 +9,15 @@
 .history
 .svn/
 
+# Api key
+.env.dart
+
+# App icon
+theralocate_icon.png
+
+# Key properties
+key.properties
+
 # IntelliJ related
 *.iml
 *.ipr

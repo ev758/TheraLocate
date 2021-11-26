@@ -1,16 +1,13 @@
 # thera_locate
 
-A new Flutter project.
+TheraLocate searches for therapies in a city, as the user types a city, so that users can get help for their mental illness.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Search page, users type a city to look for therapies in the map.
 
-A few resources to get you started if this is your first Flutter project:
+The autocomplete api provides the city's address.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The place details api provides details of a city's location.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The nearby search api searches for therapies that are within the city.
